@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root SchemaVersion="2.0" xmlns="http://schemas.microsoft.com/VisualStudio/2009/appmodel">
+  <Startup>
+    <Form>frmLogin</Form>
+  </Startup>
+  <MySubMain>true</MySubMain>
+</Root>
